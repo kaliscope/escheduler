@@ -1,2 +1,2 @@
 # escheduler
-a distributed scheduler
+A distributed scheduler based on TBScheduler
